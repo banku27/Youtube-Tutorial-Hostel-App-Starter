@@ -2,7 +2,7 @@ class AppConstants {
   static const appName = 'Hostel Management';
 
 // assets
-  static const logo = 'assets/logo.svg';
+  static const logo = 'assets/logo.jpg';
   static const bed = 'assets/bed.png';
   static const profile = 'assets/profile.svg';
   static const createIssue = 'assets/create_issue.svg';
