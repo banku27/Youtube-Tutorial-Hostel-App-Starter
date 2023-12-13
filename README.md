@@ -1,3 +1,6 @@
+
+<img src="https://github.com/banku27/Youtube-Tutorial-Hostel-App-Starter/assets/55456058/b254da02-e147-4a93-89fb-4115f5aeb7d5">
+
 Elevate your hostel experience with our user-friendly Hostel Management App! 🏠. Seamlessly switch rooms, check fees, and voice your concerns as a student.
 
 Dive into simplicity and efficiency
@@ -16,3 +19,4 @@ Dive into simplicity and efficiency
 ✅ Approve or toss room change requests
 🔧 Be the hero, solve student woes
 👥 Hire and fire staff like a boss
+
