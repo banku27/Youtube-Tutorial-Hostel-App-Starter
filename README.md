@@ -20,6 +20,7 @@ Dive into simplicity and efficiency
 🔧 Be the hero, solve student woes
 👥 Hire and fire staff like a boss
 
-// Email Validation Regex
+// Email Validation Regex : 
+
 final emailRegex =
       RegExp(r'^[\w-]+(\.[\w-]+)*@[\w-]+(\.[\w-]+)*(\.[a-z]{2,})$');
