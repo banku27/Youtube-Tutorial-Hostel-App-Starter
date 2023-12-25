@@ -1,4 +1,6 @@
 
+Channel Link : https://www.youtube.com/@FlutterSync-0703
+
 <img src="https://github.com/banku27/Youtube-Tutorial-Hostel-App-Starter/assets/55456058/b254da02-e147-4a93-89fb-4115f5aeb7d5">
 
 Elevate your hostel experience with our user-friendly Hostel Management App! 🏠. Seamlessly switch rooms, check fees, and voice your concerns as a student.
